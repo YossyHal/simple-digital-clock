@@ -5,7 +5,8 @@
 
 ## 使い方(オンライン)
 
-<https://yossyhal.github.io/simple-digital-clock/clock.html> を開いてください
+<https://yossyhal.github.io/simple-digital-clock/clock.html> を開いてください  
+ダブルクリックすると、ミリ秒の表示有無が切り替わります
 
 ## 使い方(オフライン)
 
