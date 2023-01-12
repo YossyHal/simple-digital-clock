@@ -3,9 +3,13 @@
 [デジタル時計を端末幅に応じて中央表示する](https://dianxnao.com/javascript%E8%AA%B2%E9%A1%8C%EF%BC%9A%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E6%99%82%E8%A8%88%E3%82%92%E7%AB%AF%E6%9C%AB%E5%B9%85%E3%81%AB%E5%BF%9C%E3%81%98%E3%81%A6%E4%B8%AD%E5%A4%AE%E8%A1%A8%E7%A4%BA/)
 を丸パクリして、一部変更したものです
 
-## 使い方
+## 使い方(オンライン)
 
-index.html をダブルクリックすると、デジタル時計ページが新しいウィンドウで開きます  
+<https://yossyhal.github.io/simple-digital-clock/clock.html> を開いてください
+
+## 使い方(オフライン)
+
+ソースをダウンロードし、index.html をダブルクリックすると、デジタル時計ページが新しいウィンドウで開きます  
 ※新しいウィンドウが開かない場合は
 <https://developer.mozilla.org/ja/docs/Web/API/Window/open#%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E3%82%92%E9%96%8B%E3%81%8F>
 の手順でポップアップを有効にしてください
